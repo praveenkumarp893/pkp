@@ -1,0 +1,29 @@
+.skills-section {
+  padding: 50px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  margin: 40px auto;
+  max-width: 800px;
+  text-align: center;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+}
+
+.skills-section h2 {
+  font-size: 2.5rem;
+  color: #ffdd99;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+.skills-section ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 20px;
+}
+
+.skills-section li {
+  background: rgba(0, 0, 0, 0.5);
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}

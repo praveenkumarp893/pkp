@@ -1,0 +1,34 @@
+.about-section {
+  text-align: center;
+  padding: 100px 20px;
+  background: linear-gradient(to right, #141e30, #243b55);
+  color: #ffffff;
+}
+
+.about-section h2 {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+  color: #ffdd99;
+  cursor: pointer;
+}
+
+.about-section p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin: 0 auto;
+  max-width: 800px;
+}
+.about-image img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #3b82f6;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.5);
+}
+
+.about-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

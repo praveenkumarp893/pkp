@@ -1,0 +1,22 @@
+/* Gallery Section Styles */
+.gallery-section {
+  padding: 50px 20px;
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+  margin: 40px auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.gallery-section h2 {
+  font-size: 2.5rem;
+  color: #a29bfe;
+  margin-bottom: 20px;
+}
+
+.gallery-section p {
+  font-size: 1.2rem;
+  color: #ffffff;
+  margin-bottom: 20px;
+}

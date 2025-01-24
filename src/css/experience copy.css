@@ -1,0 +1,26 @@
+.experience-section {
+  padding: 50px 20px;
+  background: linear-gradient(to bottom, #282c34, #3b3b58);
+  border-radius: 10px;
+  margin: 40px auto;
+  max-width: 800px;
+  color: #ffffff;
+}
+
+.experience-section h2 {
+  font-size: 2.5rem;
+  color: #ffdd99;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.experience-section h3 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+.experience-section p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 15px;
+}

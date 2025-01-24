@@ -1,0 +1,25 @@
+.nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0f0f1f;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
+
+.nav a {
+  margin: 0 15px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1rem;
+  color: #ffffff;
+  transition: color 0.3s ease;
+}
+
+.nav a:hover {
+  color: #ffdd99;
+  cursor: pointer;
+}

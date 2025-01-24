@@ -1,0 +1,26 @@
+/* Education Section Styles */
+.education-section {
+  padding: 50px 20px;
+  background: linear-gradient(to bottom, #243b55, #141e30);
+  border-radius: 10px;
+  margin: 40px auto;
+  max-width: 800px;
+  text-align: center;
+  color: #ffffff;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.3);
+}
+
+.education-section h2 {
+  font-size: 2.5rem;
+  color: #ffdd99;
+  margin-bottom: 20px;
+  border-bottom: 3px solid #ffdd99;
+  display: inline-block;
+  padding-bottom: 5px;
+}
+
+.education-section p {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+}
